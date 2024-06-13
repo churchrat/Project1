@@ -1,0 +1,14 @@
+D:\homeworke\Project1\Zad1\bin\Debug\net8.0\Zad1.exe
+D:\homeworke\Project1\Zad1\bin\Debug\net8.0\Zad1.deps.json
+D:\homeworke\Project1\Zad1\bin\Debug\net8.0\Zad1.runtimeconfig.json
+D:\homeworke\Project1\Zad1\bin\Debug\net8.0\Zad1.dll
+D:\homeworke\Project1\Zad1\bin\Debug\net8.0\Zad1.pdb
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfoInputs.cache
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfo.cs
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.csproj.CoreCompileInputs.cache
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.dll
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\refint\Zad1.dll
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.pdb
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\Zad1.genruntimeconfig.cache
+D:\homeworke\Project1\Zad1\obj\Debug\net8.0\ref\Zad1.dll
